@@ -2,7 +2,7 @@
 
 A Streamlit-based web application that analyzes keyword popularity using search data and evaluates sentiment distribution. The project demonstrates API integration, data processing, sentiment analysis, correlation analysis, and data visualization in an interactive web interface.
 
-![App Screenshot](app_screenshot.png)
+![App Screenshot](images/app_screenshot.png)
 
 ## Project Structure
 
